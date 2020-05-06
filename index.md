@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP webgoat php
 tags: example-tag
-level: 4
+level: 1
 type: tool
 
 ---
